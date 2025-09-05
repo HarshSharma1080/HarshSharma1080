@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshSharma1080
 - 👀 I’m interested in AI ML
-- 🌱 I’m currently learning Python, C 
+- 🌱 I’m currently learning Python, C, C++, Web Dev, Arduino, ESP, Raspberry pi
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me linkedin www.linkedin.com/in/harsh-sharma-352433316
 - 😄 Pronouns: he/him
